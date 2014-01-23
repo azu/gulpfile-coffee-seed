@@ -11,7 +11,7 @@ $ npm install
 ## Usage
 
 ``` sh
-gulp --require coffee-script
+$ gulp --require coffee-script
 ```
 
 ## More

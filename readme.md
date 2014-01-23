@@ -14,6 +14,8 @@ $ npm install
 $ gulp --require coffee-script
 ```
 
+``--require`` is a [Compilers](https://github.com/gulpjs/gulp#compilers "Compilers") option.
+
 ## More
 
 * [Allow .coffee by default by jasonals · Pull Request #123 · gulpjs/gulp](https://github.com/gulpjs/gulp/pull/123 "Allow .coffee by default by jasonals · Pull Request #123 · gulpjs/gulp")
